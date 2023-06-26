@@ -1,0 +1,93 @@
+.linha1 {
+    background-color: rgb(17, 18, 18);
+    display: flex;
+    flex: 1;
+    margin-bottom: 3rem;
+    flex-direction: row;
+    margin: 0 10px;
+    height: 47px;
+    color: aliceblue;
+    
+}
+
+.linha2 {
+    background-color: rgb(214, 130, 3);
+    display: flex;
+    flex: 2;
+    margin-bottom: 3rem;
+    flex-direction: row;
+    margin: 0 10px;
+    height: 47px;
+    
+}
+
+.linha3 {
+    background-color: rgb(26, 179, 51);
+    display: flex;
+    flex: 1;
+    margin-bottom: 3rem;
+    flex-direction: row;
+    margin: 0 10px;
+    height: 47px;
+    
+}
+
+.linha4 {
+    background-color: aqua;
+    display: flex;
+    flex: 2;
+    margin-bottom: 3rem;
+    flex-direction: row;
+    margin: 0 10px;
+    height: 47px;
+
+
+}
+
+.linha5 {
+    background-color: blue;
+    display: flex;
+    flex: 2;
+    margin-bottom: 3rem;
+    flex-direction: row;
+    margin: 0 10px;
+    height: 47px;
+}
+
+.linha5Pequena {
+    background-color: blue;
+    display: flex;
+    margin-bottom: 3rem;
+    
+    margin: 0 10px;
+    height: 47px;
+    width: 100px;
+}
+
+.linha6 {
+    background-color: brown;
+    display: flex;
+    flex: 1;
+    margin-bottom: 3rem;
+    flex-direction: row;
+    margin: 0 10px;
+    height: 47px;
+
+}
+
+.linha7 {
+    background-color: brown;
+    display: flex;
+    flex: 1;
+    margin-bottom: 3rem;
+    flex-direction: row;
+    margin: 0 10px;
+    height: 47px;
+
+}
+
+.container {
+    display: flex;
+    margin-bottom: 10px;
+
+}
